@@ -6,7 +6,8 @@ Jeg vil lige informere om at man skal have item'et med spawnkoden "nicki_virus" 
 Jeg har gjort så man ikke skal ind i vrp/cfg/item.lua og oprette den. Item'et bliver automatisk oprettet inde i scriptet.
 
 ## KRÆVER ##
-vRP Framework 0.5 | mythic_notify og progressBars
+vRP Framework 0.5 | mythic_notify og progressBars.
+Du skal have mhacking på din server ellers fungere det slet ikke.
 
 ## SHOWCASE ##
 https://www.youtube.com/watch?v=g1C8lkZJQe4&feature=youtu.be
